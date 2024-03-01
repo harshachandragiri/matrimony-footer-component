@@ -1,0 +1,38 @@
+body{
+	display: flex;
+	justify-content: center;
+	flex-direction:row;
+}
+
+.flexb{
+	display: flex;
+	flex-direction:row;
+}
+.inlineblock{
+	display:inline-block;
+}
+ul li{
+	text-decoration: none;
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+}
+.paddl{
+    padding-left: 30px;
+}
+.btn{
+    height: 60px;
+    width: 250px;
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: black;
+    color: white;
+    margin-left: 15vw;
+}
+.iconbox{
+    margin-left: 10vw;
+}
+.spacingleft{
+    margin-left: 15px;
+}
